@@ -11,7 +11,7 @@
   },
   "default_locale": "en",
   "permissions": [
-    "https://*/*"
+    "https://news.ycombinator.com/*"
   ],
   "content_scripts": [
     {
