@@ -1,3 +1,23 @@
 /**
- * Place your custom CSS styles here.
+ * Injected Css too modify the page
  **/
+
+.title {
+    font-size: 12pt !important;
+    padding: .5em
+}
+
+.subtext {
+    font-size: 7pt !important;
+    padding: 0em;
+    padding-bottom: 2em;
+}
+
+.comhead {
+    padding-left: 1em;
+}
+
+td {
+    padding: .7em;
+}
+
